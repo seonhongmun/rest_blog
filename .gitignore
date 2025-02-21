@@ -1,0 +1,4 @@
+.idea/*
+.config_secret/*
+.python-version
+config/settings.py
